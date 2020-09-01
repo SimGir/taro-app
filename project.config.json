@@ -7,7 +7,9 @@
     "urlCheck": true,
     "es6": false,
     "postcss": false,
-    "minified": false
+    "minified": false,
+    "checkSiteMap": false,
+    "useCompilerModule": true
   },
   "compileType": "miniprogram"
 }
